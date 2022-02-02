@@ -30,3 +30,11 @@ iframe{
     display: block;
     margin: auto;
 }
+.rows {
+    display: flex;
+  }
+  
+  .columns {
+    flex: 33.33%;
+    padding: 100px;
+  }
